@@ -21,7 +21,7 @@
 
 ### 7) Testing model 
 
-**Performance :**
+## Performance
 
 <p align="center">
   <img width="600" height="300" src="acc.png">
@@ -30,3 +30,5 @@
 <p align="center">
   <img width="600" height="300" src="loss.png">
 </p>
+
+***loss: 0.0458 - accuracy: 0.9833 - val_loss: 0.0475 - val_accuracy: 0.9929***
