@@ -23,12 +23,12 @@
 
 ## Performance
 
-<p align="center">
-  <img width="600" height="300" src="acc.png">
+<p align="right">
+  <img width="400" height="200" src="acc.png">
 </p>
 
-<p align="center">
-  <img width="600" height="300" src="loss.png">
+<p align="right">
+  <img width="400" height="200" src="loss.png">
 </p>
 
 ***loss: 0.0458 - accuracy: 0.9833 - val_loss: 0.0475 - val_accuracy: 0.9929***
