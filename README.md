@@ -32,3 +32,14 @@
 </p>
 
 ***loss: 0.0458 - accuracy: 0.9833 - val_loss: 0.0475 - val_accuracy: 0.9929***
+
+## Purpose of the Project
+
+This model helps social networks and online platforms, both websites and applications, to quickly identify and remove toxic comments and messages and reduce the difficulty of this process
+
+## Technology Stack
+
+* [Tensorflow 2.x](https://www.tensorflow.org/)
+* [pandas](https://pandas.pydata.org/pandas-docs/stable/index.html#)
+* [numpy](https://numpy.org/)
+* [matplotlib](https://matplotlib.org/)
