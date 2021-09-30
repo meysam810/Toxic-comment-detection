@@ -21,4 +21,12 @@
 
 ### 7) Testing model 
 
+**Performance :**
 
+<p align="center">
+  <img width="600" height="300" src="acc.png">
+</p>
+
+<p align="center">
+  <img width="600" height="300" src="loss.png">
+</p>
