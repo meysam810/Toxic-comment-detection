@@ -5,3 +5,20 @@
   <img width="900" height="500" src="https://storage.googleapis.com/kaggle-media/competitions/jigsaw/003-avatar.png">
 </p>
 
+## Overview
+
+### 1) Import Data
+
+### 2) Tokenize Texts
+
+### 3) Convert texts to sequences
+
+### 4) Pad sequences into same size
+
+### 5) Same sizing sequences
+
+### 6) Deploy Embedding layer and LSTM 
+
+### 7) Testing model 
+
+
